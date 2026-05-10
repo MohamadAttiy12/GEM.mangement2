@@ -1,0 +1,23 @@
+﻿  Coachs.cpp
+D:\c++\GEM.mangement\Coachs.cpp(1,10): error C1083: Cannot open include file: 'coachs.h': No such file or directory
+  Dashboard.cpp
+D:\c++\GEM.mangement\Dashboard.cpp(1,10): error C1083: Cannot open include file: 'Dashboard.h': No such file or directory
+  Finance.cpp
+D:\c++\GEM.mangement\Finance.h(4,10): error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  (compiling source file 'Finance.cpp')
+  
+  Login.cpp
+D:\c++\GEM.mangement\Login.h(4,10): error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  (compiling source file 'Login.cpp')
+  
+  main.cpp
+D:\c++\GEM.mangement\main.cpp(2,10): error C1083: Cannot open include file: 'MembersPage.h': No such file or directory
+  Members.cpp
+D:\c++\GEM.mangement\Members.h(4,10): error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  (compiling source file 'Members.cpp')
+  
+  Splash.cpp
+D:\c++\GEM.mangement\Splash.h(5,10): error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  (compiling source file 'Splash.cpp')
+  
+  Generating Code...

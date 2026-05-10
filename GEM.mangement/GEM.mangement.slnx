@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GEM.mangement.vcxproj" Id="a5f83ff4-4cbc-427d-b7b1-9688726272af" />
+</Solution>
